@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VICEM\\vicemAPI\\vicemAPI.csproj": {}
+    "D:\\VICEM\\Project\\vicemAPI\\vicemAPI.csproj": {}
   },
   "projects": {
-    "D:\\VICEM\\vicemAPI\\vicemAPI.csproj": {
+    "D:\\VICEM\\Project\\vicemAPI\\vicemAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VICEM\\vicemAPI\\vicemAPI.csproj",
+        "projectUniqueName": "D:\\VICEM\\Project\\vicemAPI\\vicemAPI.csproj",
         "projectName": "vicemAPI",
-        "projectPath": "D:\\VICEM\\vicemAPI\\vicemAPI.csproj",
+        "projectPath": "D:\\VICEM\\Project\\vicemAPI\\vicemAPI.csproj",
         "packagesPath": "C:\\Users\\Mobiphone\\.nuget\\packages\\",
-        "outputPath": "D:\\VICEM\\vicemAPI\\obj\\",
+        "outputPath": "D:\\VICEM\\Project\\vicemAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mobiphone\\AppData\\Roaming\\NuGet\\NuGet.Config"

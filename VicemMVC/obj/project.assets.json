@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VICEM\\VicemMVC\\VicemMVC.csproj",
+      "projectUniqueName": "D:\\VICEM\\Project\\VicemMVC\\VicemMVC.csproj",
       "projectName": "VicemMVC",
-      "projectPath": "D:\\VICEM\\VicemMVC\\VicemMVC.csproj",
+      "projectPath": "D:\\VICEM\\Project\\VicemMVC\\VicemMVC.csproj",
       "packagesPath": "C:\\Users\\Mobiphone\\.nuget\\packages\\",
-      "outputPath": "D:\\VICEM\\VicemMVC\\obj\\",
+      "outputPath": "D:\\VICEM\\Project\\VicemMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mobiphone\\AppData\\Roaming\\NuGet\\NuGet.Config"
